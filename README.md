@@ -1,6 +1,6 @@
 **Clone and prepare:**
 ```bash
-git clone https://github.com/USERNAME/cvfetch.git
+git clone https://github.com/Rexrad/Cvfetch
 cd cvfetch
 chmod +x cvfetch.sh
 ```
